@@ -5,3 +5,9 @@ Codes are not just copy and past from source codes but with fully understanding 
 checkout the project hosted on server easily following the links below:
 
 Menu: https://reactjs-project-practice-menu.netlify.app/
+
+Project used create react app https://github.com/facebook/create-react-app
+to launch the project using command 
+npm install 
+npm start 
+
